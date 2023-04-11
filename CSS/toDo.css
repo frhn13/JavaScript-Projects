@@ -1,0 +1,25 @@
+#toDoBox {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: black;
+    text-align: center;
+    justify-content: center;
+}
+#textToDo {
+    margin-bottom: 2%;
+}
+
+#myButton {
+    margin-bottom: 2%;
+}
+
+.buttons {
+    cursor: pointer;
+}
+
+.buttons:hover {
+    background-color: rgb(46, 150, 59);
+}
